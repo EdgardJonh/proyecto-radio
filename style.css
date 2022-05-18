@@ -1,0 +1,9 @@
+.avatar{
+    display: flex;
+    padding-left: 2rem;
+}
+
+.avatar img{
+    width: 120px;
+    height: 12px;
+}
